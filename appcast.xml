@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>SqwarkSelf</title>
+        <link>https://raw.githubusercontent.com/sqwark-industries/sqwarkself-releases/main/appcast.xml</link>
+        <description>Updates for SqwarkSelf, the Mac focus guard.</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.0.0</title>
+            <pubDate>Tue, 22 Sep 2026 15:02:19 GMT</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <p>The first SqwarkSelf: a dead-simple focus guard that lives in your menu bar. You say what you&#x27;re working on, pick how long, and the bird keeps you there.</p>
+                <ul>
+                <li>Click the icon, type what you&#x27;re working on, choose 25, 50 or 90 minutes, press Go. While that watch runs, anything off task goes dark under a veil with a small card — Back to work, or This is work if it really is. Nothing is ever killed or closed.</li>
+                <li>House rules: mark a kind of site or app (Social, Video, Messaging…) as Always, and it is blocked all day. Pause them for 10, 30 or 60 minutes when you need a break.</li>
+                <li>From the keyboard: one shortcut opens a single field wherever you are; type, press Return, and the watch starts.</li>
+                <li>Today shows where the day went. The log stays on your Mac, and a web address is stored without anything after the &quot;?&quot;.</li>
+                <li>Optional: Jev, an assistant that is asked only when the rules can&#x27;t decide. Nothing goes to it from your password manager, banking, Mail or Messages, or from private windows.</li>
+                <li>One licence, US$49 once: up to three Macs and every 1.x update. Paste the key from your email and the bird gets to work. There&#x27;s no trial — if SqwarkSelf isn&#x27;t for you, ask for a refund within 14 days, no questions asked.</li>
+                <li>SqwarkSelf can update itself. It asks once whether it may check for updates; you can also press Check for Updates… under Settings → General whenever you like. It never interrupts a watch.</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/sqwark-industries/sqwarkself-releases/releases/download/v1.0.0/SqwarkSelf-1.0.0.dmg"
+                sparkle:edSignature="bPxN/nPFQBntKcQHI/dS1uPY++aDTDjA4qfbNf/jAMVX+CkqkEzWzc3q4THcbLqxxO02w1ghYgNctaCmZ/YJBA=="
+                length="3684790"
+                type="application/octet-stream"
+            />
+        </item>
+    </channel>
+</rss>
